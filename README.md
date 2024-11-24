@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
 </div>
 
+---
+
 # Harmoney Agency 🌌
 
 [![Website](https://img.shields.io/badge/Website-HarmoneyAgency.com-blue)](https://www.facebook.com/AgencyHarmoney/)  
@@ -45,7 +47,40 @@
 ## 🌟 About Us
 - **📍 Location**: Hurghada, Egypt 🇪🇬  
 - **📞 Contact**: **+01143483660**  
+- **📝 Professional Summary**: Specialized in building robust full stack applications, network administration, and cybersecurity solutions.
 
 ---
 
-هل تحتاج تحسينات إضافية؟
+## 🛠️ Professional Expertise
+- **Network Technologies**: Cisco, Juniper, VPN, Wi-Fi  
+- **Web Development**: HTML, CSS, JavaScript, React, Node.js  
+- **Cybersecurity**: Penetration Testing, SOC, Forensics, Cryptography  
+- **Database**: SQL, MongoDB, PostgreSQL  
+
+---
+
+## ⚙️ Skills
+| **Skill**              | **Description**                                           |
+|------------------------|-----------------------------------------------------------|
+| **Web Development**    | Expertise in modern frameworks like React & Node.js       |
+| **Networking**         | Proficient in Cisco, VPN, and troubleshooting             |
+| **Cybersecurity**      | Skilled in threat detection and ethical hacking           |
+| **Database**           | Advanced knowledge of SQL and NoSQL systems              |
+
+---
+
+## 📜 Certifications
+- **Certified Network Administrator** 📃  
+- **Certified Cybersecurity Specialist** 🔐  
+
+---
+
+## 🌌 Inspirational Quote
+> "The only limit to our realization of tomorrow is our doubts of today."  
+> – Franklin D. Roosevelt  
+
+---
+
+## 🌐 Connect with Us
+[![Website](https://img.shields.io/badge/Website-HarmoneyAgency.com-blue)](https://www.facebook.com/AgencyHarmoney/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/AgencyHarmoney/)  
